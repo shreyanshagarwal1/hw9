@@ -2,71 +2,71 @@
 
 {
 	"Title":"Fix You",
-	"Artist(s)":["Coldplay"],
-	"Genre(s)":["Rock","Post-Britpop","Alternative Rock"],
+	"Artists":["Coldplay"],
+	"Genres":["Rock","Post-Britpop","Alternative Rock"],
 	"Year of Release":"2005"
 },
 
 {
 	"Title":"Viva La Vida",
-	"Artist(s)":["Coldplay"],
-	"Genre(s)":["Baroque pop"],
+	"Artists":["Coldplay"],
+	"Genres":["Baroque pop"],
 	"Year of Release":"2008"
 },
 
 {
 	"Title":"A Sky Full of Stars",
-	"Artist(s)":["Coldplay"],
-	"Genre(s)":["Alternative","Indie"],
+	"Artists":["Coldplay"],
+	"Genres":["Alternative","Indie"],
 	"Year of Release":"2014"
 },
 
 {
 	"Title":"Radioactive",
-	"Artist(s)":["Imagine Dragons"],
-	"Genre(s)":["Rock","Alternative rock","Indie rock","Electronic music","Pop"],
+	"Artists":["Imagine Dragons"],
+	"Genres":["Rock","Alternative rock","Indie rock","Electronic music","Pop"],
 	"Year of Release":"2012"
 },
 
 {
 	"Title":"On Top of The World",
-	"Artist(s)":["Imagine Dragons"],
-	"Genre(s)":["Alternative","Indie"],
+	"Artists":["Imagine Dragons"],
+	"Genres":["Alternative","Indie"],
 	"Year of Release":"2012"
 },
 
 {
 	"Title":"Payphone",
-	"Artist(s)":["Maroon 5","Wiz Khalifa"],
-	"Genre(s)":["Alternative","Indie"],
+	"Artists":["Maroon 5","Wiz Khalifa"],
+	"Genres":["Alternative","Indie"],
 	"Year of Release":"2012"
 },
 
 {
 	"Title":"Hello",
-	"Artist(s)":["Pop Smoke","A Boogie wit da Hoodie"],
-	"Genre(s)":["Hip-Hop","Rap"],
+	"Artists":["Pop Smoke","A Boogie wit da Hoodie"],
+	"Genres":["Hip-Hop","Rap"],
 	"Year of Release":"2020"
 },
 
 {
 	"Title":"Element",
-	"Artist(s)":["Pop Smoke"],
-	"Genre(s)":["Hip-Hop","Rap"],
+	"Artists":["Pop Smoke"],
+	"Genres":["Hip-Hop","Rap"],
 	"Year of Release":"2020"
 },
 
 {
 	"Title":"Invincible",
-	"Artist(s)":["Pop Smoke"],
-	"Genre(s)":["Hip-Hop","Rap"],
+	"Artists":["Pop Smoke"],
+	"Genres":["Hip-Hop","Rap"],
 	"Year of Release":"2020"
 },
 
 {
 	"Title":"Zoo York",
-	"Artist(s)":["Lil Tjay","Pop Smoke", "Fivio Foreign"],
-	"Genre(s)":["Hip-Hop","Rap"],
+	"Artists":["Lil Tjay","Pop Smoke", "Fivio Foreign"],
+	"Genres":["Hip-Hop","Rap"],
 	"Year of Release":"2020"
 }
 
